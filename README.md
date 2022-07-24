@@ -1,2 +1,2 @@
-# Flight-Fare-Prediction
-Prediction flight price between places in India using random forest Hypertuning the model to get the best result
+# News-Article-Relevant-to-US-Economy
+In this we are doing data analysis of 8000 news article of US economy and predicting if this article is impacting US economy. 
